@@ -1,0 +1,131 @@
+#id      file_path        transparent_color_r    g    b
+[TEXTURES]
+10       textures\worldmap.png             176   224   248
+
+
+#id      left     top     right     bottom  texture_id
+[SPRITES]
+#Mario walk
+10001    136      48      153       64       10
+10002    153      48      170       64       10
+
+# Start word
+20001    0        32      17        48       10
+
+#Tree
+30001    17       32      34        48       10
+
+#Tree N
+40001    136      32      153       48       10
+
+#World 1-2-3-4-5-6
+50001    34       32      51        48       10
+
+50002    51       32      68        48       10
+
+50003    68       32      85        48       10
+
+50004    85       32      102        48      10
+
+50005    102       32     119        48      10
+
+50006    119       32     136        48      10
+
+#backgroud 
+60001     0         0     17        16       10
+
+#Help 
+70001     17        0     34        16       10
+
+#Catsle 
+80001     34        0     51        16       10 
+80002     51        0     68        16       10
+
+#Golden Catsle 
+90001     68        0     85        16       10
+#G-Catsle down
+90002     85        0     102       16       10
+
+#Road 
+11001     136       0     153       16       10
+11002     153       0     170       16       10
+11003     153       32    170       48       10
+
+#River
+12001     0         48    17        64       10
+12002     17        48    34        64       10
+12003     34        48    51        64       10
+12004     51        48    68        64       10
+12005     85        48    102       64       10
+12006     102       48    119       64       10
+
+#Brigde
+13001     68        48    85        64       10
+ 
+#Moutain
+14001     119       48    136       64       10
+
+#Dance Tree
+15001     0         16    17        32       10
+15002     17        16    34        32       10
+15003     34        16    51        32       10
+15004     51        16    68        32       10
+
+#Mushroom 
+16001     68        16    85        32       10
+
+#Door 
+17001     85        16    102       32       10
+
+
+#ani_id        sprite1_id      time1    sprite2_id     time2   sprite3_id   time  
+[ANIMATIONS]
+
+#---Mario---------
+100            10001           100      10002           100  
+
+#---DanceTree-----
+200            15004            100     15001           100     15002      100
+
+#id      ani1     ani2    ani3   
+#
+[ANIMATION_SETS]
+#--Mario---
+1        100
+
+#--DanceTree--
+2        200
+
+
+[OBJECTS]
+# type    x      y       ani_set_id     extra_settings per objects type  
+#
+#-Mario--
+0         50.0   0           1
+
+# DanceTree
+1         0      140         2
+1         16     140         2
+1         32     140         2
+1         64     140         2
+1         80     140         2
+1         96     140         2
+1         112    140         2
+1         144    140         2
+
+
+
+
+
+
+
+# --- SCENE PORTAL ----
+# type	l	t	ani_set_id	r	b	scene_id
+50	300	98	0	316	150	1
+
+
+
+
+
+
+
