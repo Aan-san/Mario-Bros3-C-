@@ -16,6 +16,9 @@
     <Filter Include="Objects">
       <UniqueIdentifier>{4c847a2b-2af4-467c-ad4f-7f296a79da52}</UniqueIdentifier>
     </Filter>
+    <Filter Include="item">
+      <UniqueIdentifier>{3669ce17-3bd3-4c25-840e-482d813fd62c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Game.cpp">
@@ -63,6 +66,9 @@
     <ClCompile Include="Block.cpp">
       <Filter>Objects</Filter>
     </ClCompile>
+    <ClCompile Include="Leaf.cpp">
+      <Filter>item</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Game.h">
@@ -109,6 +115,9 @@
     </ClInclude>
     <ClInclude Include="Block.h">
       <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Leaf.h">
+      <Filter>item</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

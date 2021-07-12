@@ -1,4 +1,17 @@
-﻿  Game.cpp
+﻿  Animations.cpp
+  Block.cpp
+  Brick.cpp
+  Koopas.cpp
+  Leaf.cpp
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Leaf.cpp(4,10): fatal error C1083: Cannot open include file: 'PlayScene.h': No such file or directory
+  Portal.cpp
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Portal.cpp(9,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Portal.cpp(10,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Utils.cpp
+  Game.cpp
+  GameObject.cpp
+  Goomba.cpp
+  main.cpp
   Mario.cpp
   PlayScence.cpp
 E:\gamedev-intro-tutorials-master\05-ScenceManager\PlayScence.cpp(89,20): warning C4018: '<': signed/unsigned mismatch
@@ -9,6 +22,7 @@ E:\gamedev-intro-tutorials-master\05-ScenceManager\PlayScence.cpp(161,12): warni
 E:\gamedev-intro-tutorials-master\05-ScenceManager\PlayScence.cpp(162,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
 E:\gamedev-intro-tutorials-master\05-ScenceManager\PlayScence.cpp(261,20): warning C4018: '<': signed/unsigned mismatch
 E:\gamedev-intro-tutorials-master\05-ScenceManager\PlayScence.cpp(270,20): warning C4018: '<': signed/unsigned mismatch
-  main.cpp
+  Scence.cpp
+  Sprites.cpp
+  Textures.cpp
   Generating Code...
-  05-ScenceManager.vcxproj -> E:\gamedev-intro-tutorials-master\Debug\05-ScenceManager.exe
