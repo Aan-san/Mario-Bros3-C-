@@ -69,6 +69,9 @@
     <ClCompile Include="Leaf.cpp">
       <Filter>item</Filter>
     </ClCompile>
+    <ClCompile Include="IntroObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Game.h">
@@ -118,6 +121,9 @@
     </ClInclude>
     <ClInclude Include="Leaf.h">
       <Filter>item</Filter>
+    </ClInclude>
+    <ClInclude Include="IntroObject.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
