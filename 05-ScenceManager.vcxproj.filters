@@ -72,6 +72,9 @@
     <ClCompile Include="IntroObject.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="IntroScene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Game.h">
@@ -123,6 +126,9 @@
       <Filter>item</Filter>
     </ClInclude>
     <ClInclude Include="IntroObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IntroScene.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
