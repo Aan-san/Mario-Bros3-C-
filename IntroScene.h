@@ -1,5 +1,5 @@
 #pragma once
-#include"Scene.h"
+#include "Scence.h"
 #include"Game.h"
 #include"Goomba.h"
 
