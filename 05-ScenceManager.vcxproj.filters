@@ -78,6 +78,9 @@
     <ClCompile Include="FloatingWood.cpp">
       <Filter>Objects</Filter>
     </ClCompile>
+    <ClCompile Include="Tail.cpp">
+      <Filter>item</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Game.h">
@@ -136,6 +139,9 @@
     </ClInclude>
     <ClInclude Include="FloatingWood.h">
       <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Tail.h">
+      <Filter>item</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

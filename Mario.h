@@ -3,8 +3,7 @@
 #include "FireBullet.h"
 #include "Utils.h"
 #include "Portal.h"
-#include "Tail.h"
-
+#include "tail.h"
 
 #define MARIO_WALKING_SPEED_START	0.001f 
 #define MARIO_WALKING_SPEED_MAX		0.15f

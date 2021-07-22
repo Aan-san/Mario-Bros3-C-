@@ -3,8 +3,8 @@
 #include "GameObject.h"
 #include "Mario.h"
 #include"Goomba.h"
-#include "PlayScene.h"
-#include "Scene.h"
+#include "PlayScence.h"
+#include "Scence.h"
 #define KOOPAS_WALKING_SPEED			0.03f
 #define KOOPAS_PARA_WALKING_SPEED		0.035f
 #define KOOPAS_JUMP_SPEED				0.35f
