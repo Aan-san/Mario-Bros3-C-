@@ -129,11 +129,13 @@
     <ClCompile Include="Brick.cpp" />
     <ClCompile Include="FireBullet.cpp" />
     <ClCompile Include="FloatingWood.cpp" />
+    <ClCompile Include="IntroGround.cpp" />
     <ClCompile Include="IntroObject.cpp" />
     <ClCompile Include="IntroScene.cpp" />
     <ClCompile Include="Koopas.cpp" />
     <ClCompile Include="Leaf.cpp" />
     <ClCompile Include="Map.cpp" />
+    <ClCompile Include="MushRoom.cpp" />
     <ClCompile Include="Portal.cpp" />
     <ClCompile Include="Tail.cpp" />
     <ClCompile Include="Utils.cpp" />
@@ -154,11 +156,13 @@
     <ClInclude Include="Define.h" />
     <ClInclude Include="FireBullet.h" />
     <ClInclude Include="FloatingWood.h" />
+    <ClInclude Include="IntroGround.h" />
     <ClInclude Include="IntroObject.h" />
     <ClInclude Include="IntroScene.h" />
     <ClInclude Include="Koopas.h" />
     <ClInclude Include="Leaf.h" />
     <ClInclude Include="Map.h" />
+    <ClInclude Include="MushRoom.h" />
     <ClInclude Include="Portal.h" />
     <ClInclude Include="Tail.h" />
     <ClInclude Include="Utils.h" />

@@ -87,6 +87,12 @@
     <ClCompile Include="Map.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="IntroGround.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="MushRoom.cpp">
+      <Filter>item</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Game.h">
@@ -157,6 +163,12 @@
     </ClInclude>
     <ClInclude Include="Map.h">
       <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IntroGround.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="MushRoom.h">
+      <Filter>item</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
