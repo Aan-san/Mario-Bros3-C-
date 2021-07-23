@@ -45,6 +45,11 @@ class CGameObject
 {
 public:
 
+	int tag = 0;
+	int type = 0;
+	bool isDestroyed = false;
+	bool isEnable = true;
+
 	float x; 
 	float y;
 
@@ -63,6 +68,11 @@ public:
 	LPANIMATION_SET animation_set;
 
 public: 
+	void SetTag(int tag) { this->tag = tag; }
+	void SetType(int type) { this->type = type; }
+
+
+
 	void SetPosition(float x, float y) { this->x = x, this->y = y; }
 	void SetSpeed(float vx, float vy) { this->vx = vx, this->vy = vy; }
 	void GetPosition(float &x, float &y) { x = this->x; y = this->y; }

@@ -1,6 +1,6 @@
 #include "FloatingWood.h"
 #include "Mario.h"
-#include "PlayScene.h"
+#include "PlayScence.h"
 CFloatingWood::CFloatingWood()
 {
 	type = IGNORE;

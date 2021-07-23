@@ -1,7 +1,7 @@
 #include "Tail.h"
 #include "Mario.h"
 #include "Game.h"
-#include "PlayScene.h"
+#include "PlayScence.h"
 void CTail::GetBoundingBox(float& l, float& t, float& r, float& b)
 {
 	l = x;

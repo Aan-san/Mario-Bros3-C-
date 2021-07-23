@@ -1,35 +1,365 @@
 ﻿  Animations.cpp
   Block.cpp
   Brick.cpp
+  FireBullet.cpp
+E:\gamedev-intro-tutorials-master\05-ScenceManager\tail.h(18,51): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(413,53): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(414,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(415,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(416,52): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(417,52): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(419,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(419,116): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(422,34): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(427,36): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(432,29): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(434,64): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(435,50): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(438,34): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(445,32): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(450,79): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\FireBullet.cpp(4,10): fatal error C1083: Cannot open include file: 'PlayScene.h': No such file or directory
   FloatingWood.cpp
-E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(3,10): fatal error C1083: Cannot open include file: 'FireBullet.h': No such file or directory
+E:\gamedev-intro-tutorials-master\05-ScenceManager\tail.h(18,51): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(413,53): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(414,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(415,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(416,52): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(417,52): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(419,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(419,116): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(422,34): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(427,36): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(432,29): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(434,64): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(435,50): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(438,34): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(445,32): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(450,79): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\FloatingWood.cpp(3,10): fatal error C1083: Cannot open include file: 'PlayScene.h': No such file or directory
   IntroObject.cpp
-E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(3,10): fatal error C1083: Cannot open include file: 'FireBullet.h': No such file or directory
+E:\gamedev-intro-tutorials-master\05-ScenceManager\tail.h(18,51): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(413,53): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(414,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(415,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(416,52): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(417,52): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(419,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(419,116): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(422,34): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(427,36): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(432,29): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(434,64): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(435,50): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(438,34): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(445,32): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(450,79): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Koopas.h(63,56): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Koopas.h(64,50): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Koopas.h(69,50): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.h(69,64): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.h(70,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.h(71,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroScene.h(91,34): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroScene.h(97,30): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroScene.h(105,32): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroObject.cpp(7,2): error C2065: 'ax': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroObject.cpp(7,7): error C2065: 'ay': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroObject.cpp(8,2): error C2065: 'type': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroObject.cpp(13,11): error C2065: 'ax': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroObject.cpp(14,11): error C2065: 'ay': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroObject.cpp(20,3): error C2065: 'ay': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroObject.cpp(22,56): error C2065: 'tag': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroObject.cpp(25,3): error C2065: 'ay': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroObject.cpp(33,6): error C2065: 'tag': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroObject.cpp(40,8): error C3861: 'isColliding': identifier not found
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroObject.cpp(43,5): error C2065: 'ay': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroObject.cpp(69,27): error C2065: 'PUSHBACK': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroObject.cpp(70,27): error C2065: 'PUSHBACK': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroObject.cpp(78,17): error C2039: 'isDestroyed': is not a member of 'CGameObject'
+E:\gamedev-intro-tutorials-master\05-ScenceManager\GameObject.h(44): message : see declaration of 'CGameObject'
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroObject.cpp(91,7): error C2065: 'ay': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroObject.cpp(95,7): error C2065: 'ay': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroObject.cpp(96,10): error C2065: 'tag': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroObject.cpp(100,8): error C2065: 'isDestroyed': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroObject.cpp(125,3): error C2065: 'isDestroyed': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroObject.cpp(129,6): error C2065: 'tag': undeclared identifier
   IntroScene.cpp
-E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(3,10): fatal error C1083: Cannot open include file: 'FireBullet.h': No such file or directory
+E:\gamedev-intro-tutorials-master\05-ScenceManager\tail.h(18,51): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(413,53): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(414,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(415,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(416,52): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(417,52): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(419,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(419,116): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(422,34): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(427,36): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(432,29): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(434,64): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(435,50): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(438,34): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(445,32): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(450,79): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Koopas.h(63,56): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Koopas.h(64,50): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Koopas.h(69,50): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.h(69,64): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.h(70,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.h(71,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroScene.h(91,34): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroScene.h(97,30): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroScene.h(105,32): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroScene.cpp(6,10): fatal error C1083: Cannot open include file: 'IntroGround.h': No such file or directory
   Koopas.cpp
-E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(3,10): fatal error C1083: Cannot open include file: 'FireBullet.h': No such file or directory
+E:\gamedev-intro-tutorials-master\05-ScenceManager\tail.h(18,51): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(413,53): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(414,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(415,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(416,52): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(417,52): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(419,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(419,116): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(422,34): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(427,36): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(432,29): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(434,64): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(435,50): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(438,34): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(445,32): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(450,79): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.h(69,64): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.h(70,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.h(71,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Koopas.h(63,56): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Koopas.h(64,50): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Koopas.h(69,50): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Koopas.cpp(4,10): fatal error C1083: Cannot open include file: 'QuestionBrick.h': No such file or directory
   Leaf.cpp
-E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(3,10): fatal error C1083: Cannot open include file: 'FireBullet.h': No such file or directory
+E:\gamedev-intro-tutorials-master\05-ScenceManager\tail.h(18,51): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(413,53): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(414,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(415,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(416,52): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(417,52): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(419,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(419,116): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(422,34): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(427,36): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(432,29): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(434,64): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(435,50): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(438,34): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(445,32): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(450,79): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Koopas.h(63,56): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Koopas.h(64,50): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Koopas.h(69,50): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.h(69,64): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.h(70,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.h(71,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroScene.h(91,34): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroScene.h(97,30): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroScene.h(105,32): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Leaf.cpp(9,7): error C3861: 'IsInViewPort': identifier not found
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Leaf.cpp(10,3): error C2065: 'isDestroyed': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Leaf.cpp(11,6): error C2065: 'isDestroyed': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Leaf.cpp(27,8): error C3861: 'isColliding': identifier not found
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Leaf.cpp(31,5): error C2065: 'isDestroyed': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Leaf.cpp(33,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Leaf.cpp(33,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Leaf.cpp(36,13): error C2039: 'SetDirection': is not a member of 'CMario'
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(287): message : see declaration of 'CMario'
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Leaf.cpp(44,34): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Leaf.cpp(59,19): error C2065: 'isDestroyed': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Leaf.cpp(97,32): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  Map.cpp
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Map.cpp(23,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Map.cpp(24,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Map.cpp(33,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Map.cpp(33,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   Portal.cpp
 E:\gamedev-intro-tutorials-master\05-ScenceManager\Portal.cpp(9,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
 E:\gamedev-intro-tutorials-master\05-ScenceManager\Portal.cpp(10,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
   Tail.cpp
 E:\gamedev-intro-tutorials-master\05-ScenceManager\Tail.h(18,51): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
-E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(3,10): fatal error C1083: Cannot open include file: 'FireBullet.h': No such file or directory
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(413,53): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(414,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(415,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(416,52): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(417,52): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(419,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(419,116): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(422,34): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(427,36): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(432,29): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(434,64): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(435,50): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(438,34): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(445,32): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(450,79): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Tail.cpp(4,10): fatal error C1083: Cannot open include file: 'PlayScene.h': No such file or directory
   Utils.cpp
   Game.cpp
-E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(3,10): fatal error C1083: Cannot open include file: 'FireBullet.h': No such file or directory
+E:\gamedev-intro-tutorials-master\05-ScenceManager\tail.h(18,51): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(413,53): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(414,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(415,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(416,52): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(417,52): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(419,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(419,116): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(422,34): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(427,36): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(432,29): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(434,64): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(435,50): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(438,34): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(445,32): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(450,79): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Koopas.h(63,56): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Koopas.h(64,50): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Koopas.h(69,50): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.h(69,64): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.h(70,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.h(71,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
   GameObject.cpp
   Goomba.cpp
-E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(3,10): fatal error C1083: Cannot open include file: 'FireBullet.h': No such file or directory
+E:\gamedev-intro-tutorials-master\05-ScenceManager\tail.h(18,51): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(413,53): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(414,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(415,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(416,52): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(417,52): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(419,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(419,116): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(422,34): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(427,36): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(432,29): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(434,64): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(435,50): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(438,34): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(445,32): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(450,79): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Koopas.h(63,56): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Koopas.h(64,50): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Koopas.h(69,50): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.h(69,64): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.h(70,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.h(71,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroScene.h(91,34): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroScene.h(97,30): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\IntroScene.h(105,32): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(25,6): error C2065: 'tag': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(45,3): error C2065: 'isDestroyed': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(53,3): error C2065: 'isDestroyed': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(56,6): error C2065: 'tag': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(76,9): error C2065: 'ay': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(82,3): error C2065: 'ay': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(87,3): error C2065: 'ay': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(106,8): error C3861: 'isColliding': identifier not found
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(108,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(108,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(109,5): error C3861: 'SetDirection': identifier not found
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(117,7): error C3861: 'isColliding': identifier not found
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(121,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(121,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(123,9): error C2065: 'tag': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(124,6): error C2065: 'tag': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(169,27): error C2065: 'PUSHBACK': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(170,27): error C2065: 'PUSHBACK': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(179,17): error C2039: 'isDestroyed': is not a member of 'CGameObject'
+E:\gamedev-intro-tutorials-master\05-ScenceManager\GameObject.h(44): message : see declaration of 'CGameObject'
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(187,18): error C2039: 'tag': is not a member of 'CGoomba'
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.h(52): message : see declaration of 'CGoomba'
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(187,39): error C2065: 'tag': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(211,23): error C2065: 'tag': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(230,8): error C2065: 'ay': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(233,7): error C2065: 'ay': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(264,10): error C2065: 'tag': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(265,2): error C2050: switch expression not integral
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(301,3): error C2065: 'ay': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(303,3): error C3861: 'SetType': identifier not found
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(306,3): error C2065: 'ay': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(309,3): error C2065: 'ay': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(313,3): error C2065: 'ay': undeclared identifier
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.cpp(316,3): error C2065: 'ay': undeclared identifier
   main.cpp
-E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(3,10): fatal error C1083: Cannot open include file: 'FireBullet.h': No such file or directory
+E:\gamedev-intro-tutorials-master\05-ScenceManager\tail.h(18,51): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(413,53): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(414,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(415,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(416,52): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(417,52): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(419,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(419,116): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(422,34): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(427,36): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(432,29): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(434,64): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(435,50): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(438,34): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(445,32): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(450,79): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Koopas.h(63,56): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Koopas.h(64,50): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Koopas.h(69,50): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.h(69,64): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.h(70,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.h(71,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
   Mario.cpp
-E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(3,10): fatal error C1083: Cannot open include file: 'FireBullet.h': No such file or directory
+E:\gamedev-intro-tutorials-master\05-ScenceManager\tail.h(18,51): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(413,53): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(414,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(415,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(416,52): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(417,52): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(419,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(419,116): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(422,34): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(427,36): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(432,29): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(434,64): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(435,50): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(438,34): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(445,32): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(450,79): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.cpp(6,10): fatal error C1083: Cannot open include file: 'BoomerangBrother.h': No such file or directory
   PlayScence.cpp
-E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(3,10): fatal error C1083: Cannot open include file: 'FireBullet.h': No such file or directory
+E:\gamedev-intro-tutorials-master\05-ScenceManager\tail.h(18,51): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(413,53): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(414,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(415,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(416,52): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(417,52): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(419,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(419,116): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(422,34): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(427,36): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(432,29): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(434,64): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(435,50): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(438,34): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(445,32): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Mario.h(450,79): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Koopas.h(63,56): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Koopas.h(64,50): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Koopas.h(69,50): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.h(69,64): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.h(70,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\Goomba.h(71,54): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\PlayScence.cpp(89,20): warning C4018: '<': signed/unsigned mismatch
+E:\gamedev-intro-tutorials-master\05-ScenceManager\PlayScence.cpp(111,20): warning C4018: '<': signed/unsigned mismatch
+E:\gamedev-intro-tutorials-master\05-ScenceManager\PlayScence.cpp(134,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\PlayScence.cpp(135,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\PlayScence.cpp(161,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\PlayScence.cpp(162,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\gamedev-intro-tutorials-master\05-ScenceManager\PlayScence.cpp(261,20): warning C4018: '<': signed/unsigned mismatch
+E:\gamedev-intro-tutorials-master\05-ScenceManager\PlayScence.cpp(270,20): warning C4018: '<': signed/unsigned mismatch
+E:\gamedev-intro-tutorials-master\05-ScenceManager\PlayScence.cpp(287,19): error C2065: 'MARIO_STATE_JUMP': undeclared identifier
   Scence.cpp
+  Generating Code...
+  Compiling...
   Sprites.cpp
   Textures.cpp
   Generating Code...
