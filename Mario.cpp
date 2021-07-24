@@ -6,7 +6,7 @@
 #include "BoomerangBrother.h"
 #include "FloatingWood.h"
 #include "Game.h"
-#include "PlayScene.h"
+#include "PlayScence.h"
 #include "IntroScene.h"
 #include "Score.h"
 #include "Goomba.h"

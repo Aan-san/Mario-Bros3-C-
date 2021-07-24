@@ -93,6 +93,12 @@
     <ClCompile Include="MushRoom.cpp">
       <Filter>item</Filter>
     </ClCompile>
+    <ClCompile Include="Coin.cpp">
+      <Filter>item</Filter>
+    </ClCompile>
+    <ClCompile Include="BreakableBrick.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Game.h">
@@ -169,6 +175,12 @@
     </ClInclude>
     <ClInclude Include="MushRoom.h">
       <Filter>item</Filter>
+    </ClInclude>
+    <ClInclude Include="Coin.h">
+      <Filter>item</Filter>
+    </ClInclude>
+    <ClInclude Include="BreakableBrick.h">
+      <Filter>Objects</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

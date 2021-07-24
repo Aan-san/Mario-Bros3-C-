@@ -50,6 +50,8 @@ public:
 	bool isDestroyed = false;
 	bool isEnable = true;
 
+	bool isColliding = false;
+
 	float x; 
 	float y;
 
@@ -58,6 +60,8 @@ public:
 
 	float vx;
 	float vy;
+
+	float ax, ay; //acceleration
 
 	int nx;	 
 

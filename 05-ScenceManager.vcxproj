@@ -126,7 +126,9 @@
   <ItemGroup>
     <ClCompile Include="Animations.cpp" />
     <ClCompile Include="Block.cpp" />
+    <ClCompile Include="BreakableBrick.cpp" />
     <ClCompile Include="Brick.cpp" />
+    <ClCompile Include="Coin.cpp" />
     <ClCompile Include="FireBullet.cpp" />
     <ClCompile Include="FloatingWood.cpp" />
     <ClCompile Include="IntroGround.cpp" />
@@ -152,7 +154,9 @@
   <ItemGroup>
     <ClInclude Include="Animations.h" />
     <ClInclude Include="Block.h" />
+    <ClInclude Include="BreakableBrick.h" />
     <ClInclude Include="Brick.h" />
+    <ClInclude Include="Coin.h" />
     <ClInclude Include="Define.h" />
     <ClInclude Include="FireBullet.h" />
     <ClInclude Include="FloatingWood.h" />
