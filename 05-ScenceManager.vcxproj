@@ -138,6 +138,7 @@
     <ClCompile Include="Leaf.cpp" />
     <ClCompile Include="Map.cpp" />
     <ClCompile Include="MushRoom.cpp" />
+    <ClCompile Include="Piece.cpp" />
     <ClCompile Include="Portal.cpp" />
     <ClCompile Include="Tail.cpp" />
     <ClCompile Include="Utils.cpp" />
@@ -167,6 +168,7 @@
     <ClInclude Include="Leaf.h" />
     <ClInclude Include="Map.h" />
     <ClInclude Include="MushRoom.h" />
+    <ClInclude Include="Piece.h" />
     <ClInclude Include="Portal.h" />
     <ClInclude Include="Tail.h" />
     <ClInclude Include="Utils.h" />

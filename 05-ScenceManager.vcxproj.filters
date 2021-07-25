@@ -99,6 +99,9 @@
     <ClCompile Include="BreakableBrick.cpp">
       <Filter>Objects</Filter>
     </ClCompile>
+    <ClCompile Include="Piece.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Game.h">
@@ -180,6 +183,9 @@
       <Filter>item</Filter>
     </ClInclude>
     <ClInclude Include="BreakableBrick.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Piece.h">
       <Filter>Objects</Filter>
     </ClInclude>
   </ItemGroup>
