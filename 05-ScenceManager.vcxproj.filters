@@ -19,6 +19,9 @@
     <Filter Include="item">
       <UniqueIdentifier>{3669ce17-3bd3-4c25-840e-482d813fd62c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="enermies">
+      <UniqueIdentifier>{b36dfa00-c244-4dd4-9a0b-207c738f56d2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Game.cpp">
@@ -107,6 +110,9 @@
     </ClCompile>
     <ClCompile Include="PlantBullet.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FirePiranhaPlant.cpp">
+      <Filter>enermies</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -199,6 +205,9 @@
     </ClInclude>
     <ClInclude Include="PlantBullet.h">
       <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FirePiranhaPlant.h">
+      <Filter>enermies</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

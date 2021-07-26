@@ -1,7 +1,7 @@
 #include "FireBullet.h"
 #include "Utils.h"
 #include "Mario.h"
-#include "PlayScene.h"
+#include "PlayScence.h"
 #include "Goomba.h"
 #include "Koopas.h"
 #include "BoomerangBrother.h"

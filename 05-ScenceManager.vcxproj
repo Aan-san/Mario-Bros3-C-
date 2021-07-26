@@ -130,6 +130,7 @@
     <ClCompile Include="Brick.cpp" />
     <ClCompile Include="Coin.cpp" />
     <ClCompile Include="FireBullet.cpp" />
+    <ClCompile Include="FirePiranhaPlant.cpp" />
     <ClCompile Include="FloatingWood.cpp" />
     <ClCompile Include="IntroGround.cpp" />
     <ClCompile Include="IntroObject.cpp" />
@@ -162,6 +163,7 @@
     <ClInclude Include="Coin.h" />
     <ClInclude Include="Define.h" />
     <ClInclude Include="FireBullet.h" />
+    <ClInclude Include="FirePiranhaPlant.h" />
     <ClInclude Include="FloatingWood.h" />
     <ClInclude Include="IntroGround.h" />
     <ClInclude Include="IntroObject.h" />

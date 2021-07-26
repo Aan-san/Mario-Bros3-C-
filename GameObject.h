@@ -101,6 +101,12 @@ public:
 		float &rdy);
 
 	CGameObject();
+	float GetWidth()
+	{
+		float left, top, right, bottom;
+		GetBoundingBox(left, top, right, bottom);
+		return right - left;
+	}
 
 	virtual void GetBoundingBox(float &left, float &top, float &right, float &bottom) = 0;
 	virtual void Update(DWORD dt, vector<LPGAMEOBJECT> *coObjects = NULL);
