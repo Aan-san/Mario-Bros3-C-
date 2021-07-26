@@ -114,6 +114,9 @@
     <ClCompile Include="FirePiranhaPlant.cpp">
       <Filter>enermies</Filter>
     </ClCompile>
+    <ClCompile Include="Boomerang.cpp">
+      <Filter>item</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Game.h">
@@ -208,6 +211,9 @@
     </ClInclude>
     <ClInclude Include="FirePiranhaPlant.h">
       <Filter>enermies</Filter>
+    </ClInclude>
+    <ClInclude Include="Boomerang.h">
+      <Filter>item</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
