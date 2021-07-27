@@ -134,6 +134,7 @@
     <ClCompile Include="FireBullet.cpp" />
     <ClCompile Include="FirePiranhaPlant.cpp" />
     <ClCompile Include="FloatingWood.cpp" />
+    <ClCompile Include="Grid.cpp" />
     <ClCompile Include="IntroGround.cpp" />
     <ClCompile Include="IntroObject.cpp" />
     <ClCompile Include="IntroScene.cpp" />
@@ -171,6 +172,7 @@
     <ClInclude Include="FireBullet.h" />
     <ClInclude Include="FirePiranhaPlant.h" />
     <ClInclude Include="FloatingWood.h" />
+    <ClInclude Include="Grid.h" />
     <ClInclude Include="IntroGround.h" />
     <ClInclude Include="IntroObject.h" />
     <ClInclude Include="IntroScene.h" />

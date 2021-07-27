@@ -126,6 +126,9 @@
     <ClCompile Include="QuestionBrick.cpp">
       <Filter>Objects</Filter>
     </ClCompile>
+    <ClCompile Include="Grid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Game.h">
@@ -232,6 +235,9 @@
     </ClInclude>
     <ClInclude Include="QuestionBrick.h">
       <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Grid.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
