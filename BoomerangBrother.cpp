@@ -1,7 +1,7 @@
 #include "BoomerangBrother.h"
 #include "Brick.h"
 #include "Mario.h"
-#include "PlayScene.h"
+#include "PlayScence.h"
 CBoomerangBrother::CBoomerangBrother()
 {
 	SetState(BOOMERANG_BROTHER_STATE_FORWARD);

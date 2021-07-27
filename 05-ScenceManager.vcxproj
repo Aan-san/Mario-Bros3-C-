@@ -145,6 +145,8 @@
     <ClCompile Include="PiranhaPlant.cpp" />
     <ClCompile Include="PlantBullet.cpp" />
     <ClCompile Include="Portal.cpp" />
+    <ClCompile Include="QuestionBrick.cpp" />
+    <ClCompile Include="Switch.cpp" />
     <ClCompile Include="Tail.cpp" />
     <ClCompile Include="Utils.cpp" />
     <ClCompile Include="Game.cpp" />
@@ -180,6 +182,8 @@
     <ClInclude Include="PiranhaPlant.h" />
     <ClInclude Include="PlantBullet.h" />
     <ClInclude Include="Portal.h" />
+    <ClInclude Include="QuestionBrick.h" />
+    <ClInclude Include="Switch.h" />
     <ClInclude Include="Tail.h" />
     <ClInclude Include="Utils.h" />
     <ClInclude Include="Game.h" />

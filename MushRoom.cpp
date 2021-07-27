@@ -3,7 +3,7 @@
 #include "Mario.h"
 #include "Block.h"
 #include "Brick.h"
-#include "PlayScene.h"
+#include "PlayScence.h"
 #include "IntroScene.h"
 #include "PlantBullet.h"
 

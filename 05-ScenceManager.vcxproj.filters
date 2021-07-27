@@ -120,6 +120,12 @@
     <ClCompile Include="BoomerangBrother.cpp">
       <Filter>item</Filter>
     </ClCompile>
+    <ClCompile Include="Switch.cpp">
+      <Filter>item</Filter>
+    </ClCompile>
+    <ClCompile Include="QuestionBrick.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Game.h">
@@ -220,6 +226,12 @@
     </ClInclude>
     <ClInclude Include="BoomerangBrother.h">
       <Filter>item</Filter>
+    </ClInclude>
+    <ClInclude Include="Switch.h">
+      <Filter>item</Filter>
+    </ClInclude>
+    <ClInclude Include="QuestionBrick.h">
+      <Filter>Objects</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
