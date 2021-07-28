@@ -22,6 +22,9 @@
     <Filter Include="enermies">
       <UniqueIdentifier>{b36dfa00-c244-4dd4-9a0b-207c738f56d2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="world">
+      <UniqueIdentifier>{b356299c-296c-4a50-a32f-c9cff873dd9b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Game.cpp">
@@ -143,6 +146,9 @@
     </ClCompile>
     <ClCompile Include="Card.cpp">
       <Filter>item</Filter>
+    </ClCompile>
+    <ClCompile Include="WorldScene.cpp">
+      <Filter>world</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -268,6 +274,9 @@
     </ClInclude>
     <ClInclude Include="Card.h">
       <Filter>item</Filter>
+    </ClInclude>
+    <ClInclude Include="WorldScene.h">
+      <Filter>world</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
