@@ -138,6 +138,12 @@
     <ClCompile Include="Score.cpp">
       <Filter>item</Filter>
     </ClCompile>
+    <ClCompile Include="BackUp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Card.cpp">
+      <Filter>item</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Game.h">
@@ -255,6 +261,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Score.h">
+      <Filter>item</Filter>
+    </ClInclude>
+    <ClInclude Include="BackUp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Card.h">
       <Filter>item</Filter>
     </ClInclude>
   </ItemGroup>
