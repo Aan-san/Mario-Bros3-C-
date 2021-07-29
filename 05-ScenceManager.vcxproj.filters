@@ -156,6 +156,9 @@
     <ClCompile Include="WorldPlayer.cpp">
       <Filter>world</Filter>
     </ClCompile>
+    <ClCompile Include="Abyss.cpp">
+      <Filter>world</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Game.h">
@@ -288,6 +291,9 @@
       <Filter>world</Filter>
     </ClInclude>
     <ClInclude Include="WorldPlayer.h">
+      <Filter>world</Filter>
+    </ClInclude>
+    <ClInclude Include="Abyss.h">
       <Filter>world</Filter>
     </ClInclude>
   </ItemGroup>

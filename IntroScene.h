@@ -107,12 +107,12 @@ public:
 	void CalColliableObjects(LPGAMEOBJECT curobj, vector<LPGAMEOBJECT>* coObjects = NULL);
 	friend class IntroSceneHandler;
 };
-class IntroSceneKeyHandler : public CScenceKeyHandler
+class IntroSceneKeyHandler : public CSceneKeyHandler
 {
 public:
 	virtual void KeyState(BYTE* states) {};
 	virtual void OnKeyDown(int KeyCode);
 	virtual void OnKeyUp(int KeyCode) {};
 
-	IntroSceneKeyHandler(CScene* s) :CScenceKeyHandler(s) {};
+	IntroSceneKeyHandler(CScene* s) :CSceneKeyHandler(s) {};
 };

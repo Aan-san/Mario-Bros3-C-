@@ -1,6 +1,6 @@
 #include "Coin.h"
 #include "Utils.h"
-#include "PlayScene.h"
+#include "PlayScence.h"
 #include "BreakableBrick.h"
 
 CCoin::CCoin(int tag) : CGameObject() {
