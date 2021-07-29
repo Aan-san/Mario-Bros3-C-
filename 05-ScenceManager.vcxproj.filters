@@ -150,6 +150,12 @@
     <ClCompile Include="WorldScene.cpp">
       <Filter>world</Filter>
     </ClCompile>
+    <ClCompile Include="WorldMapObject.cpp">
+      <Filter>world</Filter>
+    </ClCompile>
+    <ClCompile Include="WorldPlayer.cpp">
+      <Filter>world</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Game.h">
@@ -276,6 +282,12 @@
       <Filter>item</Filter>
     </ClInclude>
     <ClInclude Include="WorldScene.h">
+      <Filter>world</Filter>
+    </ClInclude>
+    <ClInclude Include="WorldMapObject.h">
+      <Filter>world</Filter>
+    </ClInclude>
+    <ClInclude Include="WorldPlayer.h">
       <Filter>world</Filter>
     </ClInclude>
   </ItemGroup>
